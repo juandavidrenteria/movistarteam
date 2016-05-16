@@ -1,0 +1,46 @@
+<!DOCTYPE HTML>
+<html lang="es">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="description" content="curso html5 desde 0" />
+    <title>Movistar Team</title>
+    <LINK href="stilo.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+  <header>
+     <hgroup>
+       <h1 align="center">MOVISTAR TEAM</h1>
+     </hgroup>
+  <nav>
+     <ul>
+	<li><a title="Inicio" href="#">Inicio</a></li>
+	<li><a title="Historia del equipo" href="Historiadelequipo.html">Historia del equipo</a></li>
+	<li><a title="Grandes Idolos" href="GrandesIdolos.html">Grandes Idolos</a></li>
+	<li><a title="Galeria fotografica" href="GaleriaFotografica.html">Galeria Fotografica</a></li>
+	<li><a title="Competencias Actuales" href="CompetenciasActuales.html">Competencias Actuales</a></li>
+        <li><a title="Patrocinadores" href="Patrocinadores.html">Patrocinadores</a></li>
+	
+</ul>
+
+</ul>
+  </nav>
+</header>
+  
+
+<section>
+ <img src="imaprin/logotipo.jpg"width="455" height="400"> <img src="imaprin/bisi.jpg"width="500" height="400">
+ <img src="imaprin/fotocomple.jpg"width="958"> 
+
+
+
+</section
+
+
+
+ <aside>
+   
+</aside>
+<footer>
+     <p>copyring 2016 Juan Renteria</p> </footer>
+</body>
+</html>
